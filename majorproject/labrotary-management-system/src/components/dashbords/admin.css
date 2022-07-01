@@ -1,0 +1,62 @@
+table {
+    border: 10px solid black;
+    width: 100%;
+    height: 20px;
+    table-layout: fixed;  
+  }
+.imgs{
+  width : 30px;
+  height : 30px;
+} 
+table, th, td {
+  border: 1px solid black ;
+  padding: 2px;
+}
+table{
+  box-shadow: 3px 3px 1px 1px #888888;
+}
+td{
+  border :10px solid  black;
+  text-align: center;
+  width: 80px;
+  height: 20px;
+  table-layout: fixed;
+}
+#subname{
+  font-size: small;
+  background-color: white;
+  padding: 10px;
+  border: solid;
+}
+#add_subject_button{
+  color: beige;
+  font-size: small;
+  background-color:rgb(0, 183, 255);
+  border-radius: 10px;
+  padding: 10px;
+  border: black;}
+#subjectss_delete,#subjectss{
+padding: 0;
+border: none;
+background: none;}
+#logout_button{
+  border-radius: 5px;
+  border: solid;
+  padding: 10px;
+  background-color: rgb(0, 183, 255);
+
+}
+tr,th,td{
+  background-color: white;
+}
+
+#add_subject_button:hover {
+  background-color:rgb(63, 207, 243);
+  color: black;
+}
+#logout_button:hover{
+  background-color:rgb(63, 207, 243);
+}
+tr{
+  border: solid black 2px;
+}

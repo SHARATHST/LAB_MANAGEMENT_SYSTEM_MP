@@ -1,0 +1,28 @@
+.main {
+        position: fixed; /* or absolute */
+        top: 50%;
+        left:33%;
+        
+    }
+.im1{
+    width: 150px;
+    height :128px;
+    border: 5px solid black;
+}    
+.im2 {
+    width: 150px;
+    height :128px;
+    border: 5px solid black;
+}
+.im3 {
+    width: 150px;
+    height :128px;
+    border: 5px solid black;
+}
+*{
+    background-color:rgb(141, 219, 250) ;
+}
+
+button:hover{
+        background-color:rgba(199, 129, 64, 0.575);
+}
